@@ -511,7 +511,12 @@ header {
     width: 100%;
     height: auto;
     padding: 30px;
+    flex-direction: column;
+    text-align: center;
   }
+  .expertContainer .one img{
+   margin-left: 70px;
+}
 
   .expertContainer .two h1 {
     font-size: 55px;
